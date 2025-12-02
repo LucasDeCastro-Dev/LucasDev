@@ -5,8 +5,7 @@ Sou um desenvolvedor em formação, estudando HTML, CSS, JavaScript e começando
 
  📚 Certificados
 - HTML e CSS – Módulo 1 (Gustavo Guanabara - Curso em Vídeo)
-  -[Certificado 1](file:///C:/Users/zagat/AppData/Local/Microsoft/Windows/INetCache/IE/3LR984KL/cursoemvideocertificado1[1].pdf)
-
+  - Certificados estão na aba "Certificados"
  💻 Tecnologias que estou estudando atualmente
 - HTML5  
 - CSS3  
