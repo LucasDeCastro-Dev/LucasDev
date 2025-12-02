@@ -6,7 +6,8 @@ Sou um desenvolvedor em formação, estudando HTML, CSS, JavaScript e começando
  📚 Certificados
 - HTML e CSS – Módulo 1 (Gustavo Guanabara - Curso em Vídeo)
   - Certificados estão na aba "Certificados"
- 💻 Tecnologias que estou estudando atualmente
+    
+  Tecnologias que estou estudando atualmente
 - HTML5  
 - CSS3  
 - JavaScript (em breve)
